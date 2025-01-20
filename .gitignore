@@ -1,5 +1,3 @@
+.gitignore
 .env
 credential.json
-Include
-Lib
-Scripts
